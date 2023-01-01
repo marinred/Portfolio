@@ -35,7 +35,7 @@ Python / Django / DjangoRestFramework
 #### 'Frontend'
 Javascript / html / css
 
-[프로젝트 상세 설명](https://github.com/marinred/portfolio/tree/../../../../../project_detail/mova/mova.md) 참고
+[프로젝트 상세 설명](https://github.com/marinred/Portfolio/blob/main/project_detail/mova/mova.md) 참고
 
 <br/>
 
