@@ -18,7 +18,6 @@
 
 
 ## 📂 Project
-<hr/>
 <br/>
 
 ## 1. ✒ MOVA
@@ -36,9 +35,8 @@ Python / Django / DjangoRestFramework
 #### 'Frontend'
 Javascript / html / css
 
-[프로젝트 상세 설명](https://github.com/marinred/MOVA_BACKEND) 참고
+[프로젝트 상세 설명](https://github.com/marinred/portfolio/tree/../../../../../project_detail/mova/mova.md) 참고
 
-<hr/>
 <br/>
 
 ## 2. 👕 Custom to Clothes
@@ -58,7 +56,6 @@ Javascript / html / css
 
 [프로젝트 상세 설명](https://github.com/marinred/Custom_To_Clothes_DLC_Backend) 참고
 
-<hr/>
 <br/>
 
 ## 3. 🎵 DLC
