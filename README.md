@@ -66,7 +66,7 @@ Python / Django / DjangoRestFramework
 #### 'Frontend'
 Javascript / html / css
 
-[프로젝트 상세 설명](https://github.com/marinred/Portfolio/blob/main/project_detail/cutom_to_clothes/cutom_to_clothes.md) 참고
+[프로젝트 상세 설명](https://github.com/marinred/Portfolio/blob/main/project_detail/custom_to_clothes/custom_to_clothes.md) 참고
 
 <br/>
 
