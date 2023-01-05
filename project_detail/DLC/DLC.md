@@ -64,19 +64,7 @@ DLC의 주요 기능은 아래와 같습니다.
 ## 6. API 설계
 
 
-| App | 기능 | URL | Method | Request | Response |
-| --- | --- | --- | --- | --- | --- |
-| User |  |  |  |  |  |
-|  | 회원가입 | /user/signup/ | POST | {“username”,“email”,“password”,”password2”} |  |
-|  | 로그인 | /user/api/token/ | POST | {“username”, “password”} |  |
-|  | 프로필 | /user/<int:user_id>/ | GET |  | {“user_id”, "username”, “email”, "bio”} |
-|  | 프로필 수정 | /user/<int:user_id>/ | PUT | {“username”, “email”, “bio”} | {“user_id”, “username”, “email”, “bio”} |
-| Music |  |  |  |  |  |
-|  | 노래 목록 조회 | / | GET |  | {“music_id”, “name”, “year”, “artist”, “aalbum”, “music_image”, “like”} |
-|  | 노래 상세 조회 | /<int:music_id>/ | GET |  | {“music_id”, “name”, “year”, “artist”, “aalbum”, “music_image”, “like”} |
-|  | 노래 좋아요 | /<int:music_id>/like/ | POST | {“user_id”} |  |
-| Review |  |  |  |  |  |
-|  | 리뷰 작성 | /<int:music_id>/review/ | POST | {“content”} |  |
+[API 명세서](https://documenter.getpostman.com/view/23810621/2s8Z73xATR)
 
 ## 8. 프로젝트 시연영상
 
