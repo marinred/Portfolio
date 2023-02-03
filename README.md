@@ -21,7 +21,8 @@
 <br/>
 
 ## 1. ✒ MOVA
-![mova main](https://user-images.githubusercontent.com/113073174/210254039-7fcdefaf-7cc7-4880-ae87-c463fb601207.png)
+![mova123](https://user-images.githubusercontent.com/113073174/216547724-52243af9-a772-4da9-b95b-651723d73adf.png)
+
 
 ### 깃허브 주소
 
